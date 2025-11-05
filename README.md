@@ -31,3 +31,6 @@ ________________________________________
 5.	Time Intelligence – Month-over-month and year-to-date comparisons using DAX
 6.	Profitability Analysis – KPIs for profit margin, discount impact, and top products
 7.	Interactive Filters and Drill-through – Slice by category, date, or region for deeper insight
+
+📊 Screenshot / Demo
+Dashboard looks like this - 
