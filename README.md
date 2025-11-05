@@ -33,4 +33,4 @@ ________________________________________
 7.	Interactive Filters and Drill-through – Slice by category, date, or region for deeper insight
 
 📊 Screenshot / Demo
-Dashboard looks like this - 
+Dashboard looks like this - https://github.com/brajat170/Ecommerce-Sales-Dashboard/blob/main/Dashboard%20Screenshot.png
